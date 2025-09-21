@@ -39,7 +39,7 @@ O projeto inclui um **diagrama arquitetônico**, um **relatório detalhado de ap
   - Movimentações de sistemas.  
   - Dados que alimentam aplicações.  
 
-###6. Snapshots de EBS
+### 6. Snapshots de EBS
 - Os Snapshots são backups pontuais dos volumes EBS.
 -Eles armazenam o estado do disco em um momento específico, permitindo restauração em caso de falhas ou desastres.
 -Esses snapshots são enviados e mantidos no Amazon S3 de forma gerenciada pela AWS (não aparecem no mesmo bucket criado pelo usuário).
